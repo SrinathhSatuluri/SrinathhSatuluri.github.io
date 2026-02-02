@@ -38,6 +38,6 @@ Created a platform showcasing SQLAlchemy ORM, Celery distributed tasks, Redis ca
 
 ## Get in Touch
 
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME) or check out my work on [GitHub](https://github.com/srinathhsatuluri).
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/srinathsatuluri) or check out my work on [GitHub](https://github.com/srinathhsatuluri).
 
-📄 [Download my Resume](/files/resume.pdf)
+📄 [Download my Resume](/files/Srinath_Resume.pdf)
