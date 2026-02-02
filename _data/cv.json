@@ -1,152 +1,124 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Srinath Satuluri",
+    "email": "ssatulur@cougarnet.uh.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://srinathhsatuluri.github.io",
+    "summary": "Computer Science student at University of Houston | Software Engineering Extern at Outamation | Backend Developer specializing in Python, Flask, FastAPI, and AWS",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Houston, TX",
       "countryCode": "US",
-      "region": ""
+      "region": "Texas"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "network": "LinkedIn",
+        "username": "srinathsatuluri",
+        "url": "https://linkedin.com/in/srinathsatuluri"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "srinathhsatuluri",
+        "url": "https://github.com/srinathhsatuluri"
       }
     ]
   },
-  "work": [],
-  "education": [
+  "work": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
+      "company": "Outamation",
+      "position": "Software Engineering Extern",
+      "website": "",
       "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "endDate": "Current",
+      "summary": "Developing Python microservices for enterprise automation solutions. Working with Flask, FastAPI, and SQLAlchemy for backend development. Implementing distributed task processing with Celery and Redis. Deploying and managing services on AWS infrastructure.",
+      "highlights": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
+      "company": "Private Tutoring",
+      "position": "Math Tutor",
+      "website": "",
       "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "endDate": "",
+      "summary": "Provided one-on-one tutoring for students in algebra, calculus, and statistics for 4+ years. Developed customized learning plans based on individual student needs. Improved student grades by an average of one letter grade.",
+      "highlights": []
     }
   ],
-  "skills": [],
+  "education": [
+    {
+      "institution": "University of Houston",
+      "area": "Bachelor of Science in Computer Science, Minor in Mathematics",
+      "studyType": "Bachelor",
+      "startDate": "",
+      "endDate": "December 2026",
+      "gpa": null,
+      "courses": [
+        "Data Structures",
+        "Algorithms",
+        "Database Systems",
+        "Software Engineering",
+        "Computer Networks",
+        "Operating Systems",
+        "Linear Algebra",
+        "Probability & Statistics"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "keywords": ["Python", "JavaScript", "TypeScript", "SQL", "Java", "C++"]
+    },
+    {
+      "name": "Backend Development",
+      "level": "",
+      "keywords": ["Flask", "FastAPI", "Express.js", "SQLAlchemy", "Celery"]
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": ["PostgreSQL", "Redis", "MongoDB"]
+    },
+    {
+      "name": "Cloud & DevOps",
+      "level": "",
+      "keywords": ["AWS Lambda", "AWS S3", "AWS EC2", "Docker", "Git"]
+    },
+    {
+      "name": "Tools",
+      "level": "",
+      "keywords": ["VS Code", "PyCharm", "Postman", "Linux"]
+    }
+  ],
   "languages": [],
   "interests": [],
   "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
+  "publications": [],
+  "presentations": [],
+  "teaching": [],
   "portfolio": [
     {
-      "name": "Portfolio item number 1",
+      "name": "Real-Time Expense Fraud Detection System",
       "category": "portfolio",
       "date": "",
       "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "description": "Built multi-layered anomaly detection system inspired by Ramp's prevention-first approach using Flask, PostgreSQL, Docker, and Redis. Implemented real-time transaction processing with sub-500ms response times and designed rule-based and ML-powered fraud detection algorithms."
+    },
+    {
+      "name": "Interfere - Self-Healing API System",
+      "category": "portfolio",
+      "date": "",
+      "url": "",
+      "description": "Developed system that auto-detects API schema mismatches using TypeScript and Express. Integrated LLM-powered analysis for intelligent issue diagnosis and implemented canary deployment for safe automated fixes."
+    },
+    {
+      "name": "WasteNot - Food Donation Platform",
+      "category": "portfolio",
+      "date": "",
+      "url": "",
+      "description": "Created full-stack web application connecting food donors with local charities. Implemented user authentication and real-time inventory tracking with responsive UI for seamless mobile and desktop experience."
     }
   ]
 }
