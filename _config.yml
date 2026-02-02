@@ -18,7 +18,7 @@ repository               : "srinathhsatuluri/srinathhsatuluri.github.io"  # CHAN
 # Site Author
 author:
   name             : "Srinath Satuluri"
-  avatar           : "/images/profile.png"
+  avatar           : "images/profile.png"
   bio              : "CS Student @ University of Houston | Software Engineering Extern @ Outamation | Backend Developer specializing in Python, Flask, FastAPI, and AWS"
   location         : "Houston, TX"
   employer         : "Outamation (Extern)"
