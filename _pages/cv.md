@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-📄 [Download Full Resume (PDF)](/files/resume.pdf)
+📄 [Download Full Resume (PDF)](/files/Srinath_Resume.pdf)
 
 ---
 
@@ -79,5 +79,5 @@ Expected Graduation: December 2026
 ## Links
 
 - **Department**: [University of Houston - Computer Science](https://cs.uh.edu)
-- **LinkedIn**: [linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+- **LinkedIn**: [linkedin.com/in/srinathsatuluri](https://linkedin.com/in/srinathsatuluri)
 - **GitHub**: [github.com/srinathhsatuluri](https://github.com/srinathhsatuluri)
